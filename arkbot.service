@@ -1,0 +1,9 @@
+[Unit]
+Description=Daemon to start an ark bot
+
+[Service]
+User=rwk
+WorkingDirectory=/home/rwk/ARK-Bot/
+ExecStart=/home/rwk/.pyenv/shims/python3 arkbot.py
+Type=simple
+Restart=always
