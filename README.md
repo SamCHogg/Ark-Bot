@@ -1,8 +1,6 @@
 # Ark-Bot
 
-A Discord Bot for controlling an ARK server.
-
-This was written for the [RWK RP Server](https://warringkingdoms.wixsite.com/thecenter).
+A Discord bot for controlling an ARK Server using [ark-server-tools](https://github.com/arkmanager/ark-server-tools).
 
 ### Requirements:
 * Python 3.7
